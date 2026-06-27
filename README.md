@@ -1,6 +1,6 @@
 # How to Create an Organization Chart Using Vue Diagram
 
-A quick-start Vue project that shows how to create an organization chart using the [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram) component. This project also includes code snippets for binding JSON data and a remote data source and customizing the nodes and connectors in the diagram.
+A quick-start Vue project that shows how to create an organization chart using the [Vue Diagram](https://www.syncfusion.com/diagram-sdk/vue-diagram) component. This project also includes code snippets for binding JSON data and a remote data source and customizing the nodes and connectors in the diagram.
 
 Watch the video: Coming soon...
 
